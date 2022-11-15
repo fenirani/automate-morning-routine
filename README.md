@@ -1,5 +1,7 @@
 # Automate Morning Routine
 
+# Linux
+
 Simple program that opens websites that are used on daily basis and which can be started from DASH.
 
 Instructions:
@@ -31,4 +33,4 @@ In here create a file called example.desktop and write in it the following (reme
 	Type=Application
 	Categories=GTK;GNOME;Utility;
 
-And that's it.
+And that's it.You may search for your program in the applications.
