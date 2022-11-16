@@ -34,3 +34,6 @@ In here create a file called example.desktop and write in it the following (reme
 	Categories=GTK;GNOME;Utility;
 
 And that's it.You may search for your program in the applications.
+
+
+NOTE: Although code asks for it, the app does not open up a new window
